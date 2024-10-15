@@ -5,8 +5,8 @@ import {Weather} from "@/components/component/api-weather"
 export default function Home() {
   return(
    <>
-    {/*<InitialScreen/>*/}
-    <Weather/>
+    <InitialScreen/>
+    {/* <Weather/> */}
     {/* <SignPage/> */}
   </>
   );
